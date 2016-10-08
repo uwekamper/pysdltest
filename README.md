@@ -1,3 +1,8 @@
+# About this
+
+These are some test scripts I made while toying around with libsdl2 and its Python bindings (PySDL2). The following instructions are incomplete.
+You might need some steps that I forgot to document.
+
 # How to install
 
 Install virtualenvwrapper and python3
